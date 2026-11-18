@@ -1,0 +1,16 @@
+{
+  "name": "تحدّي صورة",
+  "short_name": "تحدّي صورة",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#211f2a",
+  "theme_color": "#211f2a",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
